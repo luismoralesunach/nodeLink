@@ -18,8 +18,9 @@ export default function Home() {
         />
         <div className="flex flex-col gap-4 items-center justify-center sm:items-start">
           NodeLink (similar to linktree) is a social media platform that 
-          allows users to share and discover links. Users can create an account 
-          and share their favorite links with their followers. 😊
+          allows users to share and discover links. Users can create an account, follow other users, 
+          and share their favorite links with their followers. The platform also includes features such as link 
+          previews, comments, and likes.
 
           <h1>Get started</h1>
           <div className="flex gap-40">
